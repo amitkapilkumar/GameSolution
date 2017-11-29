@@ -1,0 +1,6 @@
+com\game\factory\GameLoggerFactory.class
+com\game\factory\GameFactory.class
+com\game\logger\GameLogger.class
+com\game\util\GameUtility.class
+com\game\NormalGame.class
+com\game\Game.class
